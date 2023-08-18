@@ -1,11 +1,8 @@
 /*  your css code here. If applicable */
 #nav{
-	background-color:white;
-	width:400px;
-	height:600px;
+	background-image:url("https://storage.googleapis.com/acciojob-open-file-collections/pricing-card.png");
+	width:800px;
+	height:700px;
 }
-.nav-1{
-	 background-image:url("https://storage.googleapis.com/acciojob-open-file-collections/pricing-card.png");
-	width:700px;
-	height:800px;
-}
+	 
+
